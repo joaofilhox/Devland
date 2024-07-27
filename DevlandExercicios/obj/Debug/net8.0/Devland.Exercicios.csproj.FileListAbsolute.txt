@@ -1,0 +1,5 @@
+/home/filho/Devland/DevlandExercicios/obj/Debug/net8.0/Devland.Exercicios.csproj.AssemblyReference.cache
+/home/filho/Devland/DevlandExercicios/obj/Debug/net8.0/Devland.Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/filho/Devland/DevlandExercicios/obj/Debug/net8.0/Devland.Exercicios.AssemblyInfoInputs.cache
+/home/filho/Devland/DevlandExercicios/obj/Debug/net8.0/Devland.Exercicios.AssemblyInfo.cs
+/home/filho/Devland/DevlandExercicios/obj/Debug/net8.0/Devland.Exercicios.csproj.CoreCompileInputs.cache
